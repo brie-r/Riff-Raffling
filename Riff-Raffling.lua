@@ -28,7 +28,7 @@ function SMODS.INIT.FTV ()
                 {id = 'discards', value = 3},
                 {id = 'hands', value = 4},
                 {id = 'reroll_cost', value = 5},
-                {id = 'joker_slots', value = 10},
+                {id = 'joker_slots', value = 6},
                 {id = 'consumable_slots', value = 2},
                 {id = 'hand_size', value = 8},
             }
