@@ -8,7 +8,7 @@ Uses Steamodded (incompatible with Balamod).
 
 Start with negative eternal Riff-Raff.
 
-All ways of acquiring Jokers other than Riff-Raff are banned.
+No other ways of acquiring Jokers, limited ways of earning money.
 
 ### Rules
 
