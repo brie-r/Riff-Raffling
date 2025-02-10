@@ -1,0 +1,14 @@
+{
+	"id": "UppedHealer8521_riff_raffling",
+	"name": "Riff-Raffling",
+	"display_name": "Riff-Raffling",
+	"author": ["UppedHealer8521"],
+	"description": "Challenge: Start with a negative eternal Riff-Raff. No other ways of acquiring jokers or earning money.",
+	"prefix": "UppedHealer8521_riff_raffling",
+	"main_file": "Riff-Raffling.lua",
+	"priority": 0,
+	"badge_colour": "#000000",
+	"badge_text_colour": "ffffff",
+	"version": "1.0.1",
+	"dependencies": ["Steamodded (>=1.0.0~ALPHA-1203b)"]
+}
