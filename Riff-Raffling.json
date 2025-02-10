@@ -3,7 +3,7 @@
 	"name": "Riff-Raffling",
 	"display_name": "Riff-Raffling",
 	"author": ["UppedHealer8521"],
-	"description": "Challenge: Start with a negative eternal Riff-Raff. No other ways of acquiring jokers, limited ways of earning money.",
+	"description": "Challenge: Start with a negative eternal Riff-Raff. No other ways of acquiring Jokers, limited ways of earning money.",
 	"prefix": "UppedHealer8521_riff_raffling",
 	"main_file": "Riff-Raffling.lua",
 	"priority": 0,
